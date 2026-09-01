@@ -1,0 +1,10 @@
+category,A_no_rag_mean,A_no_rag_n,B_standard_rag_mean,B_standard_rag_n,C_thresholded_rag_mean,C_thresholded_rag_n
+admissions/eligibility,0.3333333333333333,3,1.6666666666666667,3,1.6666666666666667,3
+campus facilities/services,0.0,3,1.3333333333333333,3,0.3333333333333333,3
+complex/multi-sentence,0.6666666666666666,3,0.3333333333333333,3,0.3333333333333333,3
+fees/scholarships,0.0,3,1.3333333333333333,3,1.3333333333333333,3
+leadership/faculty,0.0,2,1.0,2,1.0,2
+out-of-domain,0.0,6,0.0,6,0.0,6
+placements/careers,0.6666666666666666,3,1.0,3,0.3333333333333333,3
+policies/student support,0.6666666666666666,3,1.0,3,0.0,3
+programmes/course details,1.0,3,1.6666666666666667,3,1.0,3

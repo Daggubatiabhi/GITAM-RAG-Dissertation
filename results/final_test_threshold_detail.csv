@@ -1,0 +1,31 @@
+question_id,question,category,negative_type,question_answerable,retrieval_supported,top1_score,decision_primary_0.7,decision_secondary_0.65
+ADM-05,"Once a student achieves the qualifying GAT mark, how are seats allocated at GITAM?",admissions/eligibility,,True,True,0.8085057139396667,TA,TA
+ADM-06,What is the eligibility requirement for a student applying to GITAM as a Foreign National (FN)?,admissions/eligibility,,True,True,0.77085942029953,TA,TA
+ADM-07,"For the 2026-27 admission cycle, what examination and counseling process is used for admission to the MBBS programme at GITAM (GIMSR)?",admissions/eligibility,,True,True,0.7989068031311035,TA,TA
+FEE-03,"What is the maximum combined scholarship percentage a student can receive across multiple scholarship categories at GITAM, and what are the exceptions?",fees/scholarships,,True,True,0.7511128783226013,TA,TA
+FEE-04,What is the standard full-time PhD application fee and annual fee for Indian national students at GITAM?,fees/scholarships,,True,False,0.7526392936706543,FA,FA
+FEE-05,"For the 2026-27 admission cycle, what MBBS tuition fee concession does a candidate with a NEET rank between 1 and 25,000 receive at GIMSR?",fees/scholarships,,True,True,0.7524557113647461,TA,TA
+PRG-03,How long is the MTech Aerospace Engineering programme at GITAM Hyderabad?,programmes/course details,,True,True,0.7910811901092529,TA,TA
+PRG-04,Which GITAM campuses offer Computer Science programmes?,programmes/course details,,True,True,0.732914388179779,TA,TA
+PRG-05,"In GITAM's Liberal Education model, when do students select their Major and Minor?",programmes/course details,,True,True,0.6999030709266663,FR,TA
+PLC-02,What career roles are graduates of the BTech CSE (AI&ML) programme at GITAM Bengaluru prepared for?,placements/careers,,True,True,0.7316832542419434,TA,TA
+PLC-03,What career roles are graduates of the MTech Aerospace Engineering programme at GITAM Hyderabad prepared for?,placements/careers,,True,True,0.8413288593292236,TA,TA
+PLC-04,What headline placement results does GITAM's Career Guidance Centre (GCGC) report?,placements/careers,,True,True,0.6757549047470093,FR,TA
+LDR-01,Who is the Director of GITAM School of Computer Science and Engineering (GSCSE) at the Bengaluru campus?,leadership/faculty,,True,True,0.7926454544067383,TA,TA
+LDR-03,Who is the Director of GITAM School of Science at the Visakhapatnam campus?,leadership/faculty,,True,False,0.7587016820907593,FA,FA
+LDR-04,Who is the Head of the Department of Physics at GITAM Hyderabad?,leadership/faculty,,True,False,0.7209664583206177,FA,FA
+FAC-01,What are the two evening bus departure times from GITAM's Hyderabad campus shuttle service?,campus facilities/services,,True,True,0.7159448266029358,TA,TA
+FAC-03,"How many days can a UG student borrow a book from GITAM's library, and how many renewals are allowed?",campus facilities/services,,True,True,0.6498900651931763,FR,FR
+FAC-04,What is the daily overdue fine for a library book at GITAM?,campus facilities/services,,True,True,0.5751134157180786,FR,FR
+POL-01,What National Anti Ragging Helpline number is listed on GITAM's Visakhapatnam residential-life page?,policies/student support,,True,False,0.5775028467178345,TR,TR
+POL-02,What curfew rule is stated for students living in GITAM residence halls at the Visakhapatnam and Bengaluru campuses?,policies/student support,,True,False,0.6182578802108765,TR,TR
+POL-04,Which version of GITAM's academic regulations applies to MBA programmes for the 2024-25 admitted batch?,policies/student support,,True,True,0.69913250207901,FR,TA
+CPX-03,What student-safety committees and emergency services does GITAM Hyderabad's residence life page describe as being in place?,complex/multi-sentence,,True,True,0.6907102465629578,FR,TA
+CPX-04,How do GITAM's re-totaling and revaluation processes for end-semester theory exams differ in eligibility?,complex/multi-sentence,,True,True,0.6667330265045166,FR,TA
+CPX-05,"Besides its digital YourDOST platform, what in-person and peer-based mental health support does GITAM provide through UDAAN?",complex/multi-sentence,,True,True,0.7563889026641846,TA,TA
+OOD-02,What is the capital city of France?,out-of-domain,out_of_domain,False,False,0.2831862270832062,TR,TR
+OOD-03,How does photosynthesis convert sunlight into chemical energy?,out-of-domain,out_of_domain,False,False,0.3578324317932129,TR,TR
+OOD-06,How do you reset your password on GITAM's online application portal (apply.gitam.edu)?,out-of-domain,in_domain_unsupported,False,False,0.5394433736801147,TR,TR
+OOD-07,What are the minimum marks required in individual subjects (not aggregate) for GITAM School of Architecture UG admission?,out-of-domain,in_domain_unsupported,False,False,0.6828938722610474,TR,FA
+OOD-08,What is the exact date of the GAT 2027 entrance exam?,out-of-domain,in_domain_unsupported,False,False,0.6940556764602661,TR,FA
+OOD-09,"According to GITAM's online Scholarship Calculator, what exact scholarship amount (in rupees) would a student with a combined parental income of Rs. 9 lakh per annum receive?",out-of-domain,in_domain_unsupported,False,False,0.7502299547195435,FA,FA

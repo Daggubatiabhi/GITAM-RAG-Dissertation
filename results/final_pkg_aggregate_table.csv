@@ -1,0 +1,4 @@
+mode,n_total,mean_factual_correctness,n_factual,mean_groundedness,n_groundedness,refusal_behaviour_accuracy,n_refusal_scored,mean_hallucination_count,n_hallucination,mean_citation_correctness,n_citation,refusal_rate,n_refusal_rate
+Mode A (No-RAG),29,0.3448275862068966,29,,0,,0,2.8275862068965516,29,,0,0.0,29
+Mode B (Standard RAG),29,0.9310344827586207,29,1.7241379310344827,29,0.8620689655172413,29,0.2413793103448276,29,1.8333333333333333,18,0.41379310344827586,29
+Mode C (Thresholded RAG),29,0.5862068965517241,29,1.7241379310344827,29,0.7241379310344828,29,0.2413793103448276,29,1.9230769230769231,13,0.5517241379310345,29

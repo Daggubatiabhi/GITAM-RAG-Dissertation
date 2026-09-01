@@ -1,0 +1,4 @@
+mode,n_total,n_invoked,gen_median_ms_invoked_only,gen_p95_ms_invoked_only
+Mode A (No-RAG),29,29,38675.0,85956.69999999997
+Mode B (Standard RAG),29,29,74777.1,185011.23999999993
+Mode C (Thresholded RAG),29,15,71937.7,335651.9399999995

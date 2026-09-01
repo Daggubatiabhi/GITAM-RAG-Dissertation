@@ -1,0 +1,25 @@
+config,scope_type,scope,n,hit@1,hit@3,hit@5,mrr
+idx_128_25_minilm,overall,all,36,0.6944444444444444,0.8055555555555556,0.8055555555555556,0.7407407407407407
+idx_128_25_minilm,split,calibration,12,0.5833333333333334,0.8333333333333334,0.8333333333333334,0.6805555555555555
+idx_128_25_minilm,split,final_test,24,0.75,0.7916666666666666,0.7916666666666666,0.7708333333333334
+idx_128_25_minilm,category,admissions/eligibility,5,1.0,1.0,1.0,1.0
+idx_128_25_minilm,category,campus facilities/services,4,0.75,1.0,1.0,0.8333333333333333
+idx_128_25_minilm,category,complex/multi-sentence,5,0.8,1.0,1.0,0.8666666666666666
+idx_128_25_minilm,category,fees/scholarships,5,0.8,0.8,0.8,0.8
+idx_128_25_minilm,category,leadership/faculty,4,0.5,0.5,0.5,0.5
+idx_128_25_minilm,category,out-of-domain,0,,,,
+idx_128_25_minilm,category,placements/careers,4,0.5,0.75,0.75,0.625
+idx_128_25_minilm,category,policies/student support,4,0.25,0.5,0.5,0.375
+idx_128_25_minilm,category,programmes/course details,5,0.8,0.8,0.8,0.8
+idx_240_40_minilm,overall,all,36,0.5555555555555556,0.6944444444444444,0.7222222222222222,0.6212962962962963
+idx_240_40_minilm,split,calibration,12,0.3333333333333333,0.75,0.75,0.5138888888888888
+idx_240_40_minilm,split,final_test,24,0.6666666666666666,0.6666666666666666,0.7083333333333334,0.6749999999999999
+idx_240_40_minilm,category,admissions/eligibility,5,0.8,1.0,1.0,0.8666666666666666
+idx_240_40_minilm,category,campus facilities/services,4,0.75,0.75,0.75,0.75
+idx_240_40_minilm,category,complex/multi-sentence,5,0.8,1.0,1.0,0.9
+idx_240_40_minilm,category,fees/scholarships,5,0.6,0.6,0.8,0.64
+idx_240_40_minilm,category,leadership/faculty,4,0.25,0.5,0.5,0.375
+idx_240_40_minilm,category,out-of-domain,0,,,,
+idx_240_40_minilm,category,placements/careers,4,0.5,0.5,0.5,0.5
+idx_240_40_minilm,category,policies/student support,4,0.0,0.25,0.25,0.125
+idx_240_40_minilm,category,programmes/course details,5,0.6,0.8,0.8,0.6666666666666666

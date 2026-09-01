@@ -1,0 +1,4 @@
+mode,n,gen_median_ms,gen_p95_ms,retrieval_median_ms,retrieval_p95_ms,total_median_ms,total_p95_ms
+Mode A (No-RAG),29,38675.0,85956.69999999997,0.0,0.0,38680.0,85968.47999999997
+Mode B (Standard RAG),29,74777.1,185011.23999999993,543.1,857.96,74781.5,185024.35999999993
+Mode C (Thresholded RAG),29,8786.5,178628.83999999985,543.1,857.96,8789.9,178656.71999999986
